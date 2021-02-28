@@ -10,3 +10,10 @@ component of the model.
 
 read details of wawunet at <a href="wawunet.md" target="_blank">wawunet.md</a>
 
+## Papers with wawUnet
+
+1. <a href="https://ieeexplore.ieee.org/abstract/document/9302154" target="_blank">Parsing Address Texts with Deep Learning Method</a>
+
+
+
+
