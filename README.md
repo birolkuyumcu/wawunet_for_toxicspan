@@ -14,6 +14,18 @@ read details of wawunet at <a href="wawunet.md" target="_blank">wawunet.md</a>
 
 1. <a href="https://ieeexplore.ieee.org/abstract/document/9302154" target="_blank">Parsing Address Texts with Deep Learning Method</a>
 
+## Results
+official F1 scores of our best model
+
+| Train   | Trial    | Test     |
+|---------|----------|----------|
+| 0.81265 | 0.602049 | 0.625106 |
+
+
+
+
+
+
 
 
 
