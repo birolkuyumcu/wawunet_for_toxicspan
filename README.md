@@ -15,6 +15,33 @@ read details of wawunet at <a href="wawunet.md" target="_blank">wawunet.md</a>
 1. <a href="https://ieeexplore.ieee.org/abstract/document/9302154" target="_blank">Parsing Address Texts with Deep Learning Method</a>
 2. [Toxic Spans Detection Using Segmentation Based 1-D Convolutional Neural Network Model](https://aclanthology.org/2021.semeval-1.123.pdf)
 
+## Citiations
+
+If you use this work for academic and/or professional purposes please cite:
+```
+@inproceedings{inproceedings,
+author = {Delil, Selman and Kuyumcu, Birol and Aksakallı, Cüneyt},
+year = {2021},
+month = {01},
+pages = {909-912},
+title = {Sefamerve ARGE at SemEval-2021 Task 5: Toxic Spans Detection Using Segmentation Based 1-D Convolutional Neural Network Model},
+doi = {10.18653/v1/2021.semeval-1.123}
+}
+```
+and 
+```
+@inproceedings{inproceedings,
+author = {Delil, Selman and Kuyumcu, Birol and Aksakalli, Cuneyt and Akcira, Isa},
+year = {2020},
+month = {10},
+pages = {1-4},
+title = {Parsing Address Texts with Deep Learning Method},
+doi = {10.1109/SIU49456.2020.9302154}
+}
+```
+
+
+
 ## Results
 official F1 scores of our best model
 
